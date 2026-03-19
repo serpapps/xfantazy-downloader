@@ -20,7 +20,7 @@ XFantazy Downloader is a browser extension for users who want a cleaner way to s
 
 ## Preview
 
-![XFantazy Downloader workflow preview](assets/workflow-preview.svg)
+![XFantazy Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
